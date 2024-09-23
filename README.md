@@ -1,4 +1,4 @@
-## Fala Devs! eu sou o GuiBarbosa, programador Full-Stack!
+## Fala Devs! eu sou o GuiBarbosa, Dev Back-end!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
